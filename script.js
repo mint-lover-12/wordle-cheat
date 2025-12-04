@@ -198,7 +198,7 @@
         possibleWords = [...candidates];
         elCount.innerText = possibleWords.length;
 
-        if (useEntropy && possibleWords.length > 1 && possibleWords.length < 800) {
+        if (useEntropy && possibleWords.length > 1 && possibleWords.length < 100000) {
             elStatus.innerText = "Computing Entropy...";
             setTimeout(() => { possibleWords = entropySort(possibleWords); render(true); elStatus.innerText = "Entropy Ready"; }, 10);
         } else {
