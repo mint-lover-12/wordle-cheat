@@ -1,3 +1,5 @@
+**install + gen info**
+
 install tampermonkey from https://chromewebstore.google.com/   (look up tampermonkey), and then make a new script and paste in the contents of `index.js`
 then go to wordle (https://www.nytimes.com/games/wordle/index.html).
 
@@ -6,6 +8,11 @@ will attach stats after I use it more, but i beat wordles bot :)
 
 
 also stop button doesnt work idrc abt it
+also i could add autosolve (pulls latest word), but thats boring
+
+**how to use**
+
+go to wordle (link above), and the GUI will appear. Toggle settings to your choice (recommendation below). you can drag it around and double click the header to expand/shrink it. works very well, absolutely dominates wordles own bot (which has knowledge about previous words). 
 
 **mode explanation**
 
