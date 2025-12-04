@@ -69,11 +69,11 @@
     ui.id = 'wg-container';
     ui.innerHTML = `
         <div id="wg-header">
-            <strong>🤖 WORDLE SOLVER</strong>
+            <strong>WORDLE SOLVER</strong>
             <span id="wg-count" style="font-size:11px; background:#333; padding:2px 6px; border-radius:4px;">Wait</span>
         </div>
         <div id="wg-content">
-            <button id="wg-bot-btn" class="wg-btn">▶ Start Auto-Bot</button>
+            <button id="wg-bot-btn" class="wg-btn">bot on</button>
             <div id="wg-status" style="font-size: 11px; color: #aaa; margin-bottom: 8px; text-align: center;">...</div>
             <div id="wg-results" style="max-height: 200px; overflow-y: auto;"></div>
         </div>
