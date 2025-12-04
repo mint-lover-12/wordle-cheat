@@ -12,7 +12,7 @@ also stop button doesnt work idrc abt it
 for this i needed:
 To get wordles wordlist.
 I got it, then I just pull letters and their colours, compare, and zamnnmnmn
-algorithm is decent, I dont see how it could be improved without adding it a list of common words or something like that.
+algorithm is quite good, probably the best for an accuracy|time ratio.
 
 overall pretty easy to do, cant wait for wordle to add an anticheat ;)
 
