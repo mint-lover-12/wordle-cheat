@@ -65,3 +65,7 @@ algorithm is quite good, probably the best for an accuracy|time ratio.
 
 overall pretty easy to do, cant wait for wordle to add an anticheat ;)
 
+**improvements**
+only improvement would be cutting out words that 'arent' used in wordles due to them not being actual words, but idk how this would impact it and i cba to do it
+
+
